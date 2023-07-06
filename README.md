@@ -1,4 +1,5 @@
-# :construction: README em construção ! :construction:
+Recipe app is a search engine app developed for Web, using JS, HTML, CSS, React, React Hooks, and Context API while applying TDD. 
+It’s an app that besides giving you recipes, also combines the best match of food and beverage.
 <!-- Olá, Tryber!
 Esse é apenas um arquivo inicial para o README do seu projeto.
 É essencial que você preencha esse documento por conta própria, ok?
